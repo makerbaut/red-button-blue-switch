@@ -1,0 +1,18 @@
+{
+  "name": "mangled-data-code-test",
+  "version": "0.0.0",
+  "description": "A code test implementing Docker, Redis, and encryption",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/makerbot/mangled-data-code-test.git"
+  },
+  "author": "Greg Walden <greg.walden@makerbot.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.4",
+    "redis": "^2.8.0"
+  }
+}
